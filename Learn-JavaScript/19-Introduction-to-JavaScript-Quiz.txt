@@ -1,0 +1,71 @@
+What will the following code print to the console?
+let num = 10;
+num *= 3;
+console.log(num); 
+
+Answer = 30
+
+----------
+
+What is string interpolation?
+
+Answer = Using template literals to embed variables into strings.
+
+----------
+
+What is the correct way to call the random method on the Math global object?
+
+Answer = Math.random()
+
+----------
+
+What are variables used for in JavaScript?
+
+Answer = For storing or holding data.
+
+----------
+
+What is the outcome of the following code snippet?
+
+console.log('Hello world');
+
+Answer = Hello world is printed to the console.
+
+----------
+
+Which of the following is an example of a single line comment?
+
+Answer = // Is this a comment?
+
+----------
+
+Which of the following code snippets would cause an error?
+
+Answer = const food = 'chicken';
+         food = 'sushi';
+
+----------
+
+What is the outcome of this statement?
+
+console.log('hi!'.length);
+
+Answer = 3 is printed to the console.
+
+----------
+
+What is string concatenation?
+
+Answer = When you join strings together.
+
+----------
+
+What is the correct way to call a string’s built-in method?
+
+Answer = 'codecademy'.toUpperCase();
+
+----------
+
+What is the correct way to declare a new variable that you can change?
+
+Answer = let myName = 'Sloan';
