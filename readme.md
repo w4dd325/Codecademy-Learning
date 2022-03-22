@@ -1,1 +1,1 @@
-Using exercism.org to learn code
+Using codecademy.com to learn code
