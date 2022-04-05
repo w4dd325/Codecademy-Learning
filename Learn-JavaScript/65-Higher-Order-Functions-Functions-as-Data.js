@@ -1,15 +1,15 @@
 const checkThatTwoPlusTwoEqualsFourAMillionTimes = () => {
-    for(let i = 1; i <= 1000000; i++) {
-      if ( (2 + 2) != 4) {
-        console.log('Something has gone very wrong :( ');
-      }
+  for (let i = 1; i <= 1000000; i++) {
+    if ((2 + 2) != 4) {
+      console.log('Something has gone very wrong :( ');
     }
-  };
-  
-  // Write your code below
-  
-  let isTwoPlusTwo = checkThatTwoPlusTwoEqualsFourAMillionTimes;
-  
-  isTwoPlusTwo();
-  
-  console.log(isTwoPlusTwo.name);
+  }
+};
+
+// Write your code below
+
+let isTwoPlusTwo = checkThatTwoPlusTwoEqualsFourAMillionTimes;
+
+isTwoPlusTwo();
+
+console.log(isTwoPlusTwo.name);

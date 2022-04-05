@@ -9,7 +9,7 @@ groceryList.unshift('popcorn');
 console.log(groceryList);
 
 //You’re in a hurry so you decide to ask a friend to help you with your grocery shopping. You want him to pick up the 'bananas', 'coffee beans', and 'brown rice'.
-console.log(groceryList.slice(1,4));
+console.log(groceryList.slice(1, 4));
 //Notice that the groceryList array still contains the same items it had in Step 2. That means .slice() is non-mutating!
 console.log(groceryList);
 

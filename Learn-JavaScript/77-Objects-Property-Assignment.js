@@ -13,4 +13,3 @@ let spaceship = {
   
   delete spaceship['Secret Mission'];
   //console.log(spaceship);
-  

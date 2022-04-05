@@ -2,15 +2,15 @@ let mood = 'sleepy';
 let tirednessLevel = 6;
 
 //AND
-if(mood === 'sleepy' && tirednessLevel > 8) {
+if (mood === 'sleepy' && tirednessLevel > 8) {
   console.log('time to sleep');
-}else{
+} else {
   console.log('not bed time yet');
 }
 
 //OR
-if(mood === 'sleepy' || tirednessLevel > 8) {
+if (mood === 'sleepy' || tirednessLevel > 8) {
   console.log('time to sleep');
-}else{
+} else {
   console.log('not bed time yet');
 }
