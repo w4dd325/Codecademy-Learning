@@ -2,5 +2,5 @@
      width="100" 
      height="100" />
      
-Using [codecademy.com](https://www.codecademy.com) to learn code
+Using [codecademy.com](https://www.codecademy.com) to learn code.
      
